@@ -1,0 +1,14 @@
+.col {
+  background-color: blueviolet;
+  height: 100px;
+}
+
+.col-6 {
+  background-color: greenyellow;
+  height: 100px;
+}
+
+.col-12 {
+  background-color: yellow;
+  height: 100px;
+}
